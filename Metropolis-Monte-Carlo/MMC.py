@@ -1,3 +1,7 @@
+# Project 1: A simple metropolis problem
+# u7476599
+
+
 import matplotlib.pyplot as plt
 import numpy as np
 
